@@ -21,7 +21,7 @@ CR2-To-JPG-Converter/
 
 ## Requirements
 
-- **Windows** with a Bash environment (e.g. [Git Bash](https://git-scm.com/downloads) or WSL)
+- **Windows** with a Bash environment (e.g. [Git Bash](https://gitforwindows.org) or WSL)
 - **ImageMagick** installed and available on your PATH
   - The JPG script uses `magick` (ImageMagick 7+)
   - The HEIC script uses `convert` (ImageMagick 6)
